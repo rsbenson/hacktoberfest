@@ -2850,3 +2850,8 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [rsbenson](https://github.com/rsbenson)
+
+- Place: Colorado Springs, Colorado, United States
+- Bio: An individual who loves to learn new things about coding daily. I was a frontend developer for 3 years and a web administrator for 5. Now presuing learning code as a hobby for now. Hope to be able to do coding as a profession again in the future.
+- GitHub: [rsbenson](https://github.com/rsbenson)
